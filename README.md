@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Argon 👋
 
-<!--
-**arg0nium/arg0nium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cryptography enthusiast and developer focused on secure systems and protocols.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Modern cryptographic primitives
+- Zero-knowledge proofs
+- Post-quantum cryptography
+- Secure protocol design
+
+## Languages & Tools
+
+`Rust` `Go` `Python` `C++`
+
+## Contact
+
+Feel free to reach out for crypto discussions or collaboration.
