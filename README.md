@@ -11,7 +11,7 @@ Cryptography enthusiast and developer focused on secure systems and protocols.
 
 ## Languages & Tools
 
-`Rust` `Go` `Python` `C++`
+`Rust` `Go` `Python` `C`
 
 ## Contact
 
